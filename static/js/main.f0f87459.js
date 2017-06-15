@@ -36267,7 +36267,7 @@ var App = function App() {
     ),
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       __WEBPACK_IMPORTED_MODULE_5_grid_styled__["Grid"],
-      { width: [1, 1, 1 / 2, 1 / 2], p: 4 },
+      { width: [1, 1, 1 / 2, 1 / 2], className: 'cardContainer' },
       __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         __WEBPACK_IMPORTED_MODULE_8_material_ui_Card__["Card"],
         null,
@@ -36280,7 +36280,7 @@ var App = function App() {
     ),
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       __WEBPACK_IMPORTED_MODULE_5_grid_styled__["Grid"],
-      { width: [1, 1, 1 / 2, 1 / 2], p: 4 },
+      { width: [1, 1, 1 / 2, 1 / 2], className: 'cardContainer' },
       __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         __WEBPACK_IMPORTED_MODULE_8_material_ui_Card__["Card"],
         null,
@@ -36293,7 +36293,7 @@ var App = function App() {
     ),
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       __WEBPACK_IMPORTED_MODULE_5_grid_styled__["Grid"],
-      { width: 1, p: 4 },
+      { width: 1, className: 'cardContainer' },
       __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         __WEBPACK_IMPORTED_MODULE_8_material_ui_Card__["Card"],
         null,
@@ -36306,7 +36306,7 @@ var App = function App() {
     ),
     __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       __WEBPACK_IMPORTED_MODULE_5_grid_styled__["Grid"],
-      { width: 1, p: 4 },
+      { width: 1, className: 'cardContainer' },
       __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
         __WEBPACK_IMPORTED_MODULE_8_material_ui_Card__["Card"],
         null,
@@ -78374,4 +78374,4 @@ module.exports = __webpack_require__(383);
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=main.9c80b954.js.map
+//# sourceMappingURL=main.f0f87459.js.map
