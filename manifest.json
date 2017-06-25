@@ -1,6 +1,6 @@
 {
-  "short_name": "T4I - VIZ",
-  "name": "T4I - VIZ",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
